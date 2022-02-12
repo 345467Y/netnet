@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="css/estilos.css">
+	<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet"> 
+	<title>NetNet</title>
+</head>
+<body>
+	<header>
+		<div class="contenedor" >
+			<h2 class="logotipo">NETNET</h2>
+			<nav>
+				<a href="index.html" >Series</a>
+				<a href="index.html" >Películas</a>
+				<a href="index.html" >Mi lista</a>
+			</nav>
+		</div>
+	</header>
+	<main>
+		<div class="formulario-principal" >
+			<form id="form" onsubmit="return false">
+				<div class="container">
+					<h2 id="title" class="titulo-formulario"> Formulario de Registro</h2>
+					<div>
+						<label> Nombre</label>
+						<input type="text" id="nombre" required>
+					</div>
+					<div>
+						<label> Correo</label>
+						<input type="email" id="email" required>
+					</div>
+					<div>
+						<label> Teléfono</label>
+						<input type="number" id="telefono" required>
+					</div>
+					<div>
+						<label> País</label>
+						<input type="text" id="pais" required>
+					</div>
+					
+					<div>
+						<button id="enviar" class="botonGuardar">
+							Enviar
+						</button>
+					</div>
+			</form>
+		</div>
+
+		
+
+	</main>
+	
+	<script src="js/main3.js"></script>
+</body>
+</html>

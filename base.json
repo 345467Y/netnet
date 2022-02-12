@@ -1,0 +1,109 @@
+{
+    "categorias": [
+        {
+            "titulo": "Populares en Netnet",
+            "listado": [
+                {
+                    "nombre": "Matrix-Recargado",
+                    "imagen": "img/matrix.png",
+                    "descripcion": "En su peligroso viaje para comprender mejor al constructor de Matrix y su decisivo papel en el destino de la humanidad, Neo se enfrentará a una mayor resistencia, a una verdad aún mayor y a una decisión más imposible de lo jamás imaginó. No viniste aquí para tomar la decisión. Ya la habías tomado."
+                },
+                {
+                    "nombre": "Bob-Esponja",
+                    "imagen": "img/a2.png",
+                    "descripcion": "Plankton diseña un plan para desacreditar a su némesis de negocios, Don Cangrejo, robar la fórmula secreta de la Cangreburguer y conquistar el mundo robando la corona del Rey Neptuno y enmarcando a Don Cangrejo por el crimen."
+                },
+                {
+                    "nombre": "Spider-man",
+                    "imagen": "img/a3.png",
+                    "descripcion": "The Amazing Spider-Man es la historia de Peter Parker (Garfield), un chico de instituto algo marginado que fue abandonado por sus padres cuando era niño, por lo que le criaron su Tío Ben (Sheen) y su Tía May (Field)."
+                },
+                {
+                    "nombre": "Dragon",
+                    "imagen": "img/a4.png",
+                    "descripcion": "Una comedia de aventuras ambientada en un mundo mítico de fornidos vikingos y dragones que escupen fuego, y basada en el libro de Cressida Cowell. La historia gira en torno a un vikingo adolescente llamado Hipo (JAY BARUCHEL), que vive en Isla Mema, en donde combatir a los dragones es el modo de vida habitual."
+                },
+                {
+                    "nombre": "Christmas",
+                    "imagen": "img/a5.png",
+                    "descripcion": "En Nochebuena, los hermanos Kate (Darby Camp) y Teddy Pierce (Judah Lewis) tienen un objetivo: quieren grabar en vídeo a Papá Noel (Kurt Russell). Para ello, tendrán que pasar la noche esperando la llegada de Santa. Pero sus planes no salen exactamente como querían, y provocan un accidente que casi arruina las fiestas."
+                },
+                {
+                    "nombre": "John Wick 3",
+                    "imagen": "img/a6.png",
+                    "descripcion": "Keanu Reeves como John Wick, un asesino a la fuga después de tener una recompensa de $14 millones puesta en él. Se propone localizar al Anciano, el único hombre por encima de la Mesa Alta, que tiene el poder de renunciar a la generosidad y el estado de excomunión de John"
+                }
+            ]
+        },
+        {
+            "titulo": "Series japonesas anime",
+            "listado": [
+                {
+                    "nombre": "Naruto",
+                    "imagen": "img/b1.png",
+                    "descripcion": "Narra la historia de un ninja adolescente hiperactivo, impredecible y ruidoso llamado Naruto Uzumaki, quien aspira a convertirse afanosamente en Hokage, el máximo grado ninja en su aldea, con el propósito de ser reconocido como alguien importante dentro de la misma."
+                },
+                {
+                    "nombre": "Pokemon",
+                    "imagen": "img/b2.png",
+                    "descripcion": "Ash es un niño que acaba de cumplir 10 años, lo que le da derecho a iniciar su viaje como Entrenador Pokémon. Desafortunadamente, llega tarde el día que tiene que elegir a su primer Pokémon. Al estar todos ya cogidos, el Profesor Oak no tiene más remedio que darle un rebelde Pikachu, que al principio no está nada contento con Ash."
+                },
+                {
+                    "nombre": "Los caballeros del zodiaco",
+                    "imagen": "img/b3.png",
+                    "descripcion": "un grupo de jóvenes guerreros denominados, quienes luchan por proteger a la diosa griega Atenea de las fuerzas del mal que quieren dominar la Tierra. Para sus batallas, cada santo sólo utiliza su energía interior, sus puños y su armadura que le sirve de protección y que además está inspirada en una de las 88 constelaciones."
+                },
+                {
+                    "nombre": "One Piece",
+                    "imagen": "img/b4.png",
+                    "descripcion": "Es la historia de un chico llamado Monkey D. Luffy (Luffy Monkey D. en español, dada la onomástica japonesa de poner antes el apellido que el nombre) quien, cuando tenía 7 años, comió accidentalmente una Fruta del Diablo, convirtiéndose en un hombre de goma aunque al precio de hacerle incapaz de nadar."
+                },
+                {
+                    "nombre": "One punch man",
+                    "imagen": "img/b5.png",
+                    "descripcion": "El mundo se ve invadido por extraños monstruos que aparecen misteriosamente y quienes causan numerosos desastres a la población. Saitama es un poderoso superhéroe calvo que derrota fácilmente a los monstruos u otros villanos con un único golpe de su puño."
+                },
+                {
+                    "nombre": "Elizabeth Liones es la tercera princesa del Reino de Liones que decide huir del país tras un golpe de estado. Su misión es buscar a los caballeros que se hacen llamar Los siete pecados capitales, que actualmente están en paradero desconocido por ser considerados los peores criminales del reino.",
+                    "imagen": "img/b6.png",
+                    "descripcion": ""
+                }
+            ]
+        },
+        {
+            "titulo": "Series de EEUU sobre crímenes",
+            "listado": [
+                {
+                    "nombre": "Breaking Bad",
+                    "imagen": "img/c1.png",
+                    "descripcion": "Walter White es un frustrado profesor de química en un instituto, padre de un joven discapacitado y con una mujer embarazada. Además, trabaja en un lavadero de vehículos por las tardes. Cuando le diagnostican un cáncer pulmonar terminal se plantea qué pasará con su familia cuando él muera."
+                },
+                {
+                    "nombre": "Arrow",
+                    "imagen": "img/c2.png",
+                    "descripcion": "Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, Oliver es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado."
+                },
+                {
+                    "nombre": "El chapo",
+                    "imagen": "img/c3.png",
+                    "descripcion": "Joaquín ‘El Chapo’ Guzmán, quien fue acusado de dirigir “la más extensa organización de narcotráfico del mundo”, evadió la justicia por mucho tiempo y burló varias veces las prisiones mexicanas. Su segunda detención en febrero de 2014 culminó en un escape de película menos de dos años después."
+                },
+                {
+                    "nombre": "Narcos",
+                    "imagen": "img/c4.png",
+                    "descripcion": "Mateo Moreno alias Cucaracha, un fabricante de cocaína quien durante la dictadura de Pinochet sale de Chile. Cucaracha buscando un socio se reúne con el personaje principal de la serie, Pablo Emilio Escobar Gaviria, quien en el principio de la historia es un reconocido traficante de mercancías en el departamento colombiano de Antioquia. Él junto a su primo Gustavo Gaviria han logrado una reputación dentro de la ciudad de Medellín."
+                },
+                {
+                    "nombre": "Gotham",
+                    "imagen": "img/c5.png",
+                    "descripcion": "otham sigue la vida y el ascenso del detective James Gordon (Ben Mckenzie) en una ciudad perdida en la corrupción y el mal. Creciendo en los suburbios que rodean Gotham, Gordon idealizó la ciudad como una metrópoli glamorosa y emocionante donde su difunto padre sirvió como un exitoso fiscal de distrito."
+                },
+                {
+                    "nombre": "The Flash",
+                    "imagen": "img/c6.png",
+                    "descripcion": "Barry Allen perdió a su madre con tan sólo 11 años cuando fue asesinada y su padre cargo con el crimen, siendo condenado injustamente. ... Después de estar nueve meses en coma, Barry Allen se despierta y ya no es el mismo. El rayo le ha dotado de una velocidad sobrenatural."
+                }
+            ]
+        }
+    ]
+}
