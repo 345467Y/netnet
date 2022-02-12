@@ -1,4 +1,4 @@
-crearCategorias("http://localhost:4000/categorias");
+crearCategorias("https://netnet-eta.vercel.app/base.json");
 
 
 function crearCategorias(url){
@@ -13,7 +13,7 @@ function crearCategorias(url){
     fetch(url)
         .then((resp) => resp.json())
         .then(data => {
-            data.forEach(categoria => {
+            data.categorias.forEach(categoria => {
 				const { titulo, listado } = categoria
 				let elementos = '';
 				let peliculaEncontrada = false;
